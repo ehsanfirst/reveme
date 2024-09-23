@@ -80,10 +80,15 @@
                     "color": "rgb(236 72 153)",
                     "name": "Udemy Danger"
                     }
-            ]
-
-            
-            
-        }
+            ]   
+        },
+    "border": {
+        "color": true,
+        "radius": true,
+        "style": true,
+        "width": true
+    }
+    
+    
     }
 }
